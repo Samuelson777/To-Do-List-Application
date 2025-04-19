@@ -5,7 +5,7 @@ A simple web-based To-Do List application that allows users to add, edit, and de
 
 ## Live Demo
 
-You can view the live demo of the app at ![To-Do List Application](https://samuelson777.github.io/To-Do-List-Application/)
+You can view the live demo of the app at [To-Do List Application](https://samuelson777.github.io/To-Do-List-Application/)
 
 ## Example Screenshot
 ![To-Do List Application](https://github.com/user-attachments/assets/66a6115b-adc1-4af3-b3b1-f8f64a2a9357)
