@@ -19,3 +19,6 @@ You can view the live demo of the app at [To-Do List Application](https://samuel
 - **Display Tasks**: Show the list of tasks with options to edit or delete each task.
 - **Mark as Complete**: Allow users to mark tasks as completed.
 - **Persistent Storage**: (Optional) Store tasks in local storage or a back-end database so that they persist after refreshing the page.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/To-Do-List-Application/blob/main/LICENSE) file for details.
